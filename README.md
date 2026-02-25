@@ -12,7 +12,6 @@
 - 🌱 Currently learning **Node.js, Game development**
 - 📫 Reach me at: **[support@komsan.me](mailto:support@komsan.me)**
 - 👨‍💻 View all my projects: **[https://komsan.me](https://komsan.me)**
-- 📝 I write regularly at: **[https://linktr.ee/KaiKaiee](https://linktr.ee/KaiKaiee)**
 
 ---
 
