@@ -38,7 +38,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komsan2554&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=komsan2554&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" />
 </div>
 
