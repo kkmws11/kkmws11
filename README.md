@@ -58,6 +58,9 @@
     <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" />
   </a> 
 </p>
+<p align="center">
   <a href="https://linktr.ee/KaiKaiee" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/066/118/531/small_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="kkmws_11" height="30" width="40" />
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/066/118/531/small_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="kkmws_11" height="50" width="50" />
   </a>
+</p>
+  
