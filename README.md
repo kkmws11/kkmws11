@@ -1,48 +1,25 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
+# Hi 👋, I'm Kaizaa
 
-<h1 align="center">Hi 👋, I'm Komsan (@kkmws11)</h1>
-<h3 align="center">A passionate developer building amazing things 🚀</h3>
+### A passionate developer from around the world
 
-<p align="center">
-  <a href="https://github.com/komsan2554">
-    <img src="https://komarev.com/ghpvc/?username=komsan2554&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmws11&label=Profile views&color=0e75b6&style=flat" alt="kkmws11" /> </p>
+
+- 🔭 I'm currently working on **A Minecraft Server**
+
+- 🌱 I'm currently learning **Node.js,Game development**
+
+- 📫 How to reach me **support@komsan.me**
+
+- 👨‍💻 All of my projects are available at **[https://komsan.me](https://komsan.me)**
+
+- 📝 I regularly write articles on **[https://linktr.ee/KaiKaiee](https://linktr.ee/KaiKaiee)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/kkmws11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kkmws11" height="30" width="40" /></a>
+<a href="https://instagram.com/kkmws_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkmws_11" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<div align="center">
-
-### 👨‍💻 About Me
-🔭 I’m currently working on **Awesome Projects**  
-🌱 I’m currently learning **New Technologies**  
-💬 Ask me about **Anything**  
-📫 How to reach me: **support@komsan.me**  
-
-</div>
-
-<br/>
-
-### 🛠️ Tech Stack & Tools
-<p align="center"
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br/>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komsan2554&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</div>
