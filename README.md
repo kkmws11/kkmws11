@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- ภาพแบนเนอร์แบบเคลื่อนไหว (เปลี่ยนสีหรือข้อความได้ที่ URL) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
@@ -27,8 +26,7 @@
 <br/>
 
 ### 🛠️ Tech Stack & Tools
-<p align="center">
-  <!-- เปลี่ยนหรือเพิ่ม Badge ของภาษาที่คุณใช้ได้ที่นี่ -->
+<p align="center"
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,7 +39,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- สถิติ GitHub สวยๆ ที่อัปเดตอัตโนมัติ -->
   <img src="https://github-readme-stats.vercel.app/api?username=komsan2554&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=komsan2554&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="48%" />
 </div>
