@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RjNXh6cWNydmZ0a2JpdTBqaWU0MHNzeXR0MTBnMnJ1Y2xuZDM0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif" alt="kkmws11" /> 
+  <img src="/Black Elegant Collage Artist Portfolio Presentation.png" alt="kkmws11" /> 
 </p>
 
 
