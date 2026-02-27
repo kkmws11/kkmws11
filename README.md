@@ -23,7 +23,7 @@
   <a href="https://instagram.com/kkmws_11" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkmws_11" height="30" width="40" />
   </a>
-  <a herf="mailto:support@komsan.me" >
+  <a href="mailto:support@komsan.me" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" alt="support@komsan.me" height="40" width="40" />
   </a>
 </p>
