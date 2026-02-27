@@ -1,3 +1,8 @@
+<p align="center"> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RjNXh6cWNydmZ0a2JpdTBqaWU0MHNzeXR0MTBnMnJ1Y2xuZDM0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif" alt="kkmws11" /> 
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kaizaa</h1>
 <h3 align="center">A passionate developer from around the world</h3>
 
